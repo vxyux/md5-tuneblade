@@ -3,13 +3,6 @@
 
 Based off of a project made in C# that covered this topic, I had decided to rewrite this in JavaScript!
 
-### How to use
-When you have cloned this project, simply navigate to the only JS file in the folder named: *index.js*.
-
-On line 38 you can submit your own email.
-
-To close it off, run the code and see it generate a key!
-
 ## Educational Purposes Disclaimer
 
 This repository is intended for educational purposes only. The code and any other content provided in this repository are for learning and reference purposes. The creators and contributors of this repository are not responsible for any misuse or consequences arising from the use of this material.
